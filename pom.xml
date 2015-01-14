@@ -87,4 +87,9 @@
         </plugins>
     </build>
 
+    <scm>
+    	<url>https://github.com/abemonty/excel-access-tool</url>
+    	<connection>https://github.com/abemonty/excel-access-tool.git</connection>
+    	<developerConnection>https://github.com/abemonty/excel-access-tool.git</developerConnection>
+    </scm>
 </project>
