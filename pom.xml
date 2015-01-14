@@ -89,7 +89,7 @@
 
     <scm>
     	<url>https://github.com/abemonty/excel-access-tool</url>
-    	<connection>https://github.com/abemonty/excel-access-tool.git</connection>
-    	<developerConnection>https://github.com/abemonty/excel-access-tool.git</developerConnection>
+    	<connection>scm:git:https://github.com/abemonty/excel-access-tool.git</connection>
+    	<developerConnection>scm:git:https://github.com/abemonty/excel-access-tool.git</developerConnection>
     </scm>
 </project>
